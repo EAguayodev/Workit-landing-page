@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    /* colors */
+    --dark-purple: #24053E;
+    --Eucalyptus:  #44FFA1;
+    --Davys-Grey: #584D62;
+    --Ghost-White: #FCF8FF;
+    --White: #fff;
+     /* fonts */
+    --heading-m: "Fraunces 144pt";
+    --body: Manrope;
+
+    /* Font Sizes */
+    --heading-m-size: 56px;
+    --body-size: 18px;
+    --heading-l-size: 80px;
+    --font-size-5xl: 24px;
+    --font-size-13xl: 32px;
+    /* Hover States */
+}
+
+header{
+    background-color: var(--dark-purple);
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-logo__light {
+
+}
+
+.btn-top__access {
+    text-decoration: none;
+}
+
+.header-container {
+
+}
+
+.header-row {
+    display: flex;
+}
+
+.oval-section__left {
+
+}
+
+.btn {
+
+}
+
+.btn-learn__anchor {
+
+}
+
+.header-image__hero {
+    width: 702px;
+    height: 405px;
+}
+
+.oval-section__right {
+
+}
+
+.round {
+
+}
+
+.round-1 {
+
+}
+
+.round-2 {
+
+}
+
+.round-3 {
+
+}
+
+.founder-box__text {
+
+}
+/* Tablet styles */
+@media(max-width: 1023px) and (min-width: 768px){
+    
+}
+/* Tablet styles */
+
+/* Mobile styles */
+@media(max-width: 768px) and (min-width: 375px){
+
+}
+/* Mobile styles */
